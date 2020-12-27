@@ -6,7 +6,7 @@ Hope you enjoy it!
 
 - 🔭 I’m currently working on
 
-http://idecentralize.eth.link
+http://madeindreams.eth.link
 ```
 A decentralized App built on the Ethereum Network.
 Curently deployed on the rinkeby testnet, Contact me on discord to add you own ERC20 to my DEX.

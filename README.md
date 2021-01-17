@@ -7,13 +7,7 @@ Hope you enjoy it!
 - 🔭 I’m currently working on
 
 http://madeindreams.eth.link
-```
-A decentralized App built on the Ethereum Network.
-Curently deployed on the rinkeby testnet, Contact me on discord to add you own ERC20 to my DEX.
-Staking is now live. Currently working on NFTs. The app is on the *Inter Planetary File System*.
-```
 
-ipfs://QmR7bw3BsLCg58dvXjCm7t1PWuMAa93HLuATQWPv6E56P3
 
 Don't yet have IPFS? Get it here;
 

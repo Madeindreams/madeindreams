@@ -22,9 +22,12 @@ https://madeindreams.ca
 ### Cool New Code!
 
 - :collision: [Hitchhicker's Guide to Ethereum Development](https://github.com/Madeindreams/hitch-eth-dev)
+
 - :bomb: [Create Your Own Blockchain in Javascript](https://github.com/Madeindreams/mid-blockchain-node)
+- 💻 [Another Javascript Blockchain Project](https://github.com/Madeindreams/javacoin)
 - :globe_with_meridians:[IPFS-EXPRESS an IPSF NodeJS](https://github.com/Madeindreams/ipfs-express)
 - :comet: [META-NODE a METADATA NODE FOR YOUR NFT](https://github.com/Madeindreams/ipfs-express)
+
 
 
 - 🌱 I’m currently learning

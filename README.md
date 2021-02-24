@@ -21,7 +21,7 @@ https://madeindreams.ca
 
 ### Cool New Code!
 
--💻[Awesome looking chart made easy](https://github.com/Madeindreams/chartdemo1.git)
+- 💻[Awesome looking chart made easy](https://github.com/Madeindreams/chartdemo1.git)
 - :collision: [Hitchhicker's Guide to Ethereum Development](https://github.com/Madeindreams/hitch-eth-dev)
 
 - :bomb: [Create Your Own Blockchain in Javascript](https://github.com/Madeindreams/mid-blockchain-node)

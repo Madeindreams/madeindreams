@@ -6,18 +6,15 @@ Hope you enjoy it!
 
 - 🔭 I’m currently working on
 
--- TOP SECRET --
+-- TOP SECRET PROJECT --
 
+If your looking for the madeindreams team
 
-Don't yet have IPFS? Get it here;
+https://github.com/MadeInDreams-Team
 
-https://ipfs.io
+https://madeindreams.org
 
-Also have a chanel about IPFS on the disord.
-
-For convenience purpose the project is also hosted in an old centralized fashion
-
-https://madeindreams.ca
+Working on French Ethereum Development Documentation.
 
 ### Cool New Code!
 

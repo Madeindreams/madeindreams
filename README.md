@@ -10,8 +10,8 @@ Hope you enjoy it!
 
 -- RECENTLY RELEASED --
 
-[shiBurn](https://shibarmy.github.io/shib-burn-dapp/)
-[Rent-A-Bot](https://github.com/MadeInDreams-Team/rent-a-bot)
+- [shiBurn](https://shibarmy.github.io/shib-burn-dapp/)
+- [Rent-A-Bot](https://github.com/MadeInDreams-Team/rent-a-bot)
 
 
 ### ETHERWUM DEVELOPEMENT

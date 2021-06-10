@@ -9,6 +9,7 @@ Hope you enjoy it!
 - IDXYS
 - [LOOP DEFI](https://github.com/Madeindreams/loop)
 
+
 ### 🆕 RECENTLY RELEASED 
 
 - [shiBurn](https://shibarmy.github.io/shib-burn-dapp/)
@@ -19,11 +20,16 @@ Hope you enjoy it!
 
 - :collision: [Hitchhicker's Guide to Ethereum Development](https://github.com/Madeindreams/hitch-eth-dev)
 - :comet: [META-NODE a meta-data node for your nfts](https://github.com/Madeindreams/ipfs-express)
+- 🕵️ [Node Sentry monitor your smart contract](https://github.com/MadeInDreams-Team/node-sentry)
+- 🛡️ [Open Zeppelin Defender & upgradeable](https://github.com/MadeInDreams-Team/open-zeppelin-defender)
+
 
 ### 👨🏻‍💻 EXEPRIMENTAL AND EDUCATIONAL
 
+- 🌳 [T3XLA](https://github.com/MadeInDreams-Team/t3xla)
 - :bomb: [A Javascript Blockchain Project](https://github.com/Madeindreams/javacoin)
 - 💻[Awesome looking chart made easy](https://github.com/Madeindreams/chartdemo1.git)
+
 
 ### ⚡ Fun fact 
 

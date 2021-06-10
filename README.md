@@ -1,14 +1,15 @@
-### Hello World!
+### Hello World! 🤟
 
 If you see this page, it's probably because your looking for cool code example.
 
 Hope you enjoy it!
 
-- 🔭 I’m currently working on
+### 👷 CURRENTLY WORKING ON
+
 - IDXYS
 - [LOOP DEFI](https://github.com/Madeindreams/loop)
 
--- RECENTLY RELEASED --
+### RECENTLY RELEASED 
 
 - [shiBurn](https://shibarmy.github.io/shib-burn-dapp/)
 - [Rent-A-Bot](https://github.com/MadeInDreams-Team/rent-a-bot)
@@ -24,10 +25,8 @@ Hope you enjoy it!
 - :bomb: [A Javascript Blockchain Project](https://github.com/Madeindreams/javacoin)
 - 💻[Awesome looking chart made easy](https://github.com/Madeindreams/chartdemo1.git)
 
-
-
 ### ⚡ Fun fact 
 
 - ``` The light from the sun takes 8 minutes to reach us.```
-- ``` night represent infinity n8 in any language arround the world```
+- ``` night represent infinity n8 in any language arround the world. ```
 

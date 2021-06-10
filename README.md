@@ -5,16 +5,13 @@ If you see this page, it's probably because your looking for cool code example.
 Hope you enjoy it!
 
 - 🔭 I’m currently working on
-
--- TOP SECRET PROJECT --
-
-- IDXYS(testphase)
-- LOOP DEFI (Hackathon starting 18th)
+- IDXYS
+- [LOOP DEFI](https://github.com/Madeindreams/loop)
 
 -- RECENTLY RELEASED --
 
 [shiBurn](https://shibarmy.github.io/shib-burn-dapp/)
-
+[Rent-A-Bot](https://github.com/MadeInDreams-Team/rent-a-bot)
 
 
 ### ETHERWUM DEVELOPEMENT

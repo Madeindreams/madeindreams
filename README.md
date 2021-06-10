@@ -28,7 +28,7 @@ Hope you enjoy it!
 
 - 🌳 [T3XLA](https://github.com/MadeInDreams-Team/t3xla)
 - :bomb: [A Javascript Blockchain Project](https://github.com/Madeindreams/javacoin)
-- 💻[Awesome looking chart made easy](https://github.com/Madeindreams/chartdemo1.git)
+- 💻 [Awesome looking chart made easy](https://github.com/Madeindreams/chartdemo1.git)
 
 
 ### ⚡ Fun fact 

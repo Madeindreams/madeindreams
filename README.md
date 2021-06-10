@@ -30,7 +30,7 @@ Hope you enjoy it!
 
 
 
-- ⚡ Fun fact 
+### ⚡ Fun fact 
 
 - ``` The light from the sun takes 8 minutes to reach us.```
 - ``` night represent infinity n8 in any language arround the world```

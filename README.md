@@ -14,18 +14,14 @@ Hope you enjoy it!
 - [Rent-A-Bot](https://github.com/MadeInDreams-Team/rent-a-bot)
 
 
-### ETHERWUM DEVELOPEMENT
+### &diams; ETHERWUM DEVELOPEMENT
 
 - :collision: [Hitchhicker's Guide to Ethereum Development](https://github.com/Madeindreams/hitch-eth-dev)
-- :comet: [META-NODE a METADATA NODE FOR YOUR NFT](https://github.com/Madeindreams/ipfs-express)
+- :comet: [META-NODE a meta-data node for your nfts](https://github.com/Madeindreams/ipfs-express)
 
-### EXEPRIMENTAL AND EDUCATIONAL
+### 👨🏻‍💻 EXEPRIMENTAL AND EDUCATIONAL
 
-- :bomb: [Create Your Own Blockchain in Javascript](https://github.com/Madeindreams/mid-blockchain-node)
-- 💻 [Another Javascript Blockchain Project](https://github.com/Madeindreams/javacoin)
-
-### Others
-
+- :bomb: [A Javascript Blockchain Project](https://github.com/Madeindreams/javacoin)
 - 💻[Awesome looking chart made easy](https://github.com/Madeindreams/chartdemo1.git)
 
 

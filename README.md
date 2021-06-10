@@ -14,7 +14,7 @@ Hope you enjoy it!
 - [Rent-A-Bot](https://github.com/MadeInDreams-Team/rent-a-bot)
 
 
-### &diams; ETHERWUM DEVELOPEMENT
+### &diams; ETHEREUM DEVELOPEMENT
 
 - :collision: [Hitchhicker's Guide to Ethereum Development](https://github.com/Madeindreams/hitch-eth-dev)
 - :comet: [META-NODE a meta-data node for your nfts](https://github.com/Madeindreams/ipfs-express)

@@ -9,7 +9,7 @@ Hope you enjoy it!
 - IDXYS
 - [LOOP DEFI](https://github.com/Madeindreams/loop)
 
-### RECENTLY RELEASED 
+### 🆕 RECENTLY RELEASED 
 
 - [shiBurn](https://shibarmy.github.io/shib-burn-dapp/)
 - [Rent-A-Bot](https://github.com/MadeInDreams-Team/rent-a-bot)

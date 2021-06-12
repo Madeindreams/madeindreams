@@ -4,7 +4,7 @@ If you see this page, it's probably because your looking for cool code example.
 
 Hope you enjoy it!
 
-[![Ian Decentralize GitHub stats](https://github-readme-stats.vercel.app/api?username=madeindreams)](https://github.com/madeindreams/github-readme-stats)
+
 
 ### 👷 CURRENTLY WORKING ON 
 

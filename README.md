@@ -6,7 +6,7 @@ Hope you enjoy it!
 
 [![Ian Decentralize GitHub stats](https://github-readme-stats.vercel.app/api?username=madeindreams)](https://github.com/madeindreams/github-readme-stats)
 
-[My Decentralized Presence](ipns://idecentralize.eth)
+[My Decentralized Presence](https://idecentralize.eth.link)
 
 
 

@@ -49,7 +49,7 @@ Welcome to my playground!
 
 
 
-[![Top Langs](https://github-readme-stats-nine-xi-54.vercel.app/api/top-langs/?username=madeindreams&layout=compact&theme=radical&langs_count=10)](https://github.com/madeindreams/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-xi-54.vercel.app/api/top-langs/?username=madeindreams&layout=compact&theme=radical&langs_count=20)](https://github.com/madeindreams/github-readme-stats)
 
 
 

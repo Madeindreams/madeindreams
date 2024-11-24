@@ -1,5 +1,5 @@
 
-![Ian Decentralize](IanDecentralize.jpg)
+
 [![Twitter](https://img.shields.io/twitter/follow/DecentralizeIan?style=social&logo=twitter&color=blue)](https://twitter.com/DecentralizeIan)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ian-dorion-b4b121238/)

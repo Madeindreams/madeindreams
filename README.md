@@ -1,8 +1,6 @@
 <p align="center">
   <img src="assets/profile-banner.svg" alt="Security-first systems for a decentralized world" />
-<p align="center">
   <sub>▲ terminal snapshot (click to view)</sub>
-</p>
   <img src="assets/profile-terminal.svg" alt="Terminal profile" />
 </p>
 

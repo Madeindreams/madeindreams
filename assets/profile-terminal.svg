@@ -66,28 +66,6 @@
     </text>
 
     <text x="110" y="185" class="mono" font-size="16" fill="#39ff14" opacity="0.92">
-      <tspan x="110" dy="0">name: "Ian Dorion"</tspan>
-      <tspan x="110" dy="24">tagline: "Security-first systems for a decentralized world"</tspan>
-
-      <tspan x="110" dy="32">identity:</tspan>
-      <tspan x="140" dy="24">- Software Engineer</tspan>
-      <tspan x="140" dy="24">- Security</tspan>
-      <tspan x="140" dy="24">- Distributed Systems</tspan>
-      <tspan x="140" dy="24">- Web3 Infrastructure</tspan>
-
-      <tspan x="110" dy="32">focus:</tspan>
-      <tspan x="140" dy="24">- application &amp; protocol security</tspan>
-      <tspan x="140" dy="24">- cryptography &amp; key management</tspan>
-      <tspan x="140" dy="24">- event-driven &amp; distributed architecture</tspan>
-      <tspan x="140" dy="24">- smart contracts, DeFi, cross-chain systems</tspan>
-      <tspan x="140" dy="24">- privacy-first wallet connectivity &amp; authentication</tspan>
-
-      <tspan x="110" dy="32">philosophy:</tspan>
-      <tspan x="140" dy="24">- security is a system property, not a feature</tspan>
-      <tspan x="140" dy="24">- fail closed by default</tspan>
-      <tspan x="140" dy="24">- simplicity beats cleverness in production</tspan>
-      <tspan x="140" dy="24">- transparency builds trust; obscurity builds risk</tspan>
-      <tspan x="140" dy="24">- architecture decisions outlive code</tspan>
 
       <tspan x="110" dy="0">name: "Ian Dorion"</tspan>
       <tspan x="110" dy="24">tagline: "Security-first systems for a decentralized world"</tspan>

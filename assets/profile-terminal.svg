@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="2350" viewBox="0 0 1280 2350" role="img" aria-label="Terminal profile: Ian Dorion">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#020602"/>
+      <stop offset="100%" stop-color="#050b05"/>
+    </linearGradient>
+
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.18"/>
+      <rect y="2" width="4" height="2" fill="#000000" opacity="0.06"/>
+    </pattern>
+
+    <pattern id="noise" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="7" r="1" fill="#39ff14" opacity="0.06"/>
+      <circle cx="17" cy="13" r="1" fill="#39ff14" opacity="0.04"/>
+      <circle cx="27" cy="25" r="1" fill="#39ff14" opacity="0.05"/>
+      <circle cx="11" cy="29" r="1" fill="#39ff14" opacity="0.03"/>
+    </pattern>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.85 0" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+
+    <style>
+      .mono  { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; }
+      .green { fill: #39ff14; }
+      .blue  { fill: #2BD4FF; }
+    </style>
+
+
+  </defs>
+
+  <rect width="1280" height="2350" fill="url(#bg)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="55" width="1140" height="2250" rx="18" fill="#010301" stroke="#39ff14" stroke-opacity="0.25" stroke-width="2"/>
+    <rect x="70" y="55" width="1140" height="44" rx="18" fill="#020a02" opacity="0.95"/>
+    <rect x="70" y="77" width="1140" height="22" fill="#020a02"/>
+
+    <circle cx="98" cy="77" r="6" fill="#39ff14" opacity="0.55"/>
+    <circle cx="118" cy="77" r="6" fill="#39ff14" opacity="0.35"/>
+    <circle cx="138" cy="77" r="6" fill="#39ff14" opacity="0.20"/>
+
+    <text x="170" y="83" class="mono" font-size="14" fill="#39ff14" opacity="0.75">ian.dorion@system — secure-profile</text>
+
+    <rect x="70" y="55" width="1140" height="2250" rx="18" fill="url(#noise)" opacity="0.65"/>
+    <rect x="70" y="55" width="1140" height="2250" rx="18" fill="url(#scanlines)" opacity="0.42"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="110" y="145" class="mono" font-size="18" fill="#39ff14" opacity="0.95">
+      ian.dorion@system:~$ <tspan opacity="0.90">cat profile.yaml</tspan>
+    </text>
+
+    <text x="110" y="185" class="mono" font-size="16" fill="#39ff14" opacity="0.92">
+      <tspan x="110" dy="0">name: "Ian Dorion"</tspan>
+      <tspan x="110" dy="24">tagline: "Security-first systems for a decentralized world"</tspan>
+
+      <tspan x="110" dy="32">identity:</tspan>
+      <tspan x="140" dy="24">- Software Engineer</tspan>
+      <tspan x="140" dy="24">- Security</tspan>
+      <tspan x="140" dy="24">- Distributed Systems</tspan>
+      <tspan x="140" dy="24">- Web3 Infrastructure</tspan>
+
+      <tspan x="110" dy="32">focus:</tspan>
+      <tspan x="140" dy="24">- application &amp; protocol security</tspan>
+      <tspan x="140" dy="24">- cryptography &amp; key management</tspan>
+      <tspan x="140" dy="24">- event-driven &amp; distributed architecture</tspan>
+      <tspan x="140" dy="24">- smart contracts, DeFi, cross-chain systems</tspan>
+      <tspan x="140" dy="24">- privacy-first wallet connectivity &amp; authentication</tspan>
+
+      <tspan x="110" dy="32">philosophy:</tspan>
+      <tspan x="140" dy="24">- security is a system property, not a feature</tspan>
+      <tspan x="140" dy="24">- fail closed by default</tspan>
+      <tspan x="140" dy="24">- simplicity beats cleverness in production</tspan>
+      <tspan x="140" dy="24">- transparency builds trust; obscurity builds risk</tspan>
+      <tspan x="140" dy="24">- architecture decisions outlive code</tspan>
+
+      <tspan x="110" dy="0">name: "Ian Dorion"</tspan>
+      <tspan x="110" dy="24">tagline: "Security-first systems for a decentralized world"</tspan>
+
+      <tspan x="110" dy="32">identity:</tspan>
+      <tspan x="140" dy="24">- Software Engineer</tspan>
+      <tspan x="140" dy="24">- Security</tspan>
+      <tspan x="140" dy="24">- Distributed Systems</tspan>
+      <tspan x="140" dy="24">- Web3 Infrastructure</tspan>
+
+      <tspan x="110" dy="32">mission: &gt;</tspan>
+      <tspan x="140" dy="24">Design and ship privacy-first, security-critical systems at the intersection of</tspan>
+      <tspan x="140" dy="24">distributed systems, cryptography, and blockchain infrastructure.</tspan>
+
+      <tspan x="110" dy="32">impact_focus:</tspan>
+      <tspan x="140" dy="24">- reduce_systemic_risk_in_production</tspan>
+      <tspan x="140" dy="24">- prevent_missed_onchain_events</tspan>
+      <tspan x="140" dy="24">- eliminate_brittle_architectures</tspan>
+      <tspan x="140" dy="24">- replace_complexity_with_principled_design</tspan>
+
+      <tspan x="110" dy="32">focus_areas:</tspan>
+      <tspan x="140" dy="24">- application_and_protocol_security</tspan>
+      <tspan x="140" dy="24">- cryptography_and_key_management</tspan>
+      <tspan x="140" dy="24">- distributed_systems_and_event_driven_architecture</tspan>
+      <tspan x="140" dy="24">- smart_contracts_defi_and_cross_chain_infra</tspan>
+      <tspan x="140" dy="24">- privacy_first_wallet_connectivity_and_auth</tspan>
+
+      <tspan x="110" dy="32">flagship_work:</tspan>
+      <tspan x="140" dy="24">- name: "QuantumAuth"</tspan>
+      <tspan x="170" dy="24">description: "Privacy-first Web3 authentication &amp; wallet connectivity"</tspan>
+      <tspan x="170" dy="24">guarantees:</tspan>
+      <tspan x="200" dy="24">- transparency_over_convenience</tspan>
+      <tspan x="200" dy="24">- no_third_party_relays</tspan>
+      <tspan x="200" dy="24">- security_by_design</tspan>
+
+      <tspan x="140" dy="28">- name: "Blockchain Indexing &amp; Reliability"</tspan>
+      <tspan x="170" dy="24">description: "Production-grade indexers ensuring complete event coverage"</tspan>
+      <tspan x="170" dy="24">invariants:</tspan>
+      <tspan x="200" dy="24">- no_event_gaps</tspan>
+      <tspan x="200" dy="24">- deterministic_replay</tspan>
+      <tspan x="200" dy="24">- verifiable_state</tspan>
+
+      <tspan x="140" dy="28">- name: "DeFi Infrastructure"</tspan>
+      <tspan x="170" dy="24">description: "Token-less yield farming &amp; broker-managed DeFi workflows"</tspan>
+      <tspan x="170" dy="24">priorities:</tspan>
+      <tspan x="200" dy="24">- minimize_user_friction</tspan>
+      <tspan x="200" dy="24">- preserve_protocol_integrity</tspan>
+      <tspan x="200" dy="24">- operational_safety</tspan>
+
+      <tspan x="110" dy="32">open_source_and_community:</tspan>
+      <tspan x="140" dy="24">- project: "Compound Finance"</tspan>
+      <tspan x="170" dy="24">contribution: "Reported oracle manipulation vulnerability"</tspan>
+      <tspan x="170" dy="24">outcome: "Protected protocol integrity"</tspan>
+
+      <tspan x="140" dy="28">- project: "Ethereum Magicians"</tspan>
+      <tspan x="170" dy="24">contribution: "Wallet security, privacy models, post-quantum signature discussions"</tspan>
+      <tspan x="170" dy="24">outcome: "Raised security and deployability standards"</tspan>
+
+      <tspan x="140" dy="28">- project: "GitHub Desktop"</tspan>
+      <tspan x="170" dy="24">contribution: "Enabled IntelliJ IDEA integration"</tspan>
+      <tspan x="170" dy="24">outcome: "Improved developer experience"</tspan>
+
+      <tspan x="140" dy="28">- project: "OpenZeppelin Community"</tspan>
+      <tspan x="170" dy="24">contribution: "Smart contract security &amp; best-practice design discussions"</tspan>
+      <tspan x="170" dy="24">outcome: "Strengthened patterns and guidance"</tspan>
+
+      <tspan x="110" dy="32">engineering_philosophy:</tspan>
+      <tspan x="140" dy="24">- "security_is_a_system_property_not_a_feature"</tspan>
+      <tspan x="140" dy="24">- "fail_closed_by_default"</tspan>
+      <tspan x="140" dy="24">- "simplicity_beats_cleverness_in_production"</tspan>
+      <tspan x="140" dy="24">- "transparency_builds_trust_obscurity_builds_risk"</tspan>
+      <tspan x="140" dy="24">- "architecture_decisions_outlive_code"</tspan>
+
+      <tspan x="110" dy="32">connect:</tspan>
+
+    </text>
+
+    <!-- Blue clickable links (SVG <a>) -->
+    <g class="mono" font-size="16" opacity="0.95">
+      <a href="https://quantumauth.io" target="_blank" rel="noopener">
+        <text x="220" y="2200" class="mono" fill="#2BD4FF">"https://quantumauth.io"</text>
+      </a>
+      <text x="140" y="1099" class="green">linkedin:</text>
+      <a href="https://www.linkedin.com/in/ian-dorion/" target="_blank" rel="noopener">
+        <text x="220" y="2225" class="mono" fill="#2BD4FF">"https://www.linkedin.com/in/ian-dorion/"</text>
+      </a>
+      <text x="140" y="1123" class="green">email:</text>
+      <a href="mailto:hello@quantumauth.io">
+        <text x="220" y="2250" class="mono" fill="#2BD4FF">"hello@quantumauth.io"</text>
+      </a>
+    </g>
+
+    <!-- Blinking cursor (SMIL). Note: some GitHub contexts may render it static. -->
+    <rect x="100" y="2275" width="10" height="18" fill="#39ff14" opacity="0.85">
+      <animate attributeName="opacity" values="0;0;0.85;0.85;0" keyTimes="0;0.2;0.21;0.8;1" dur="1s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>

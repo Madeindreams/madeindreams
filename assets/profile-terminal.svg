@@ -165,21 +165,6 @@
 
     </text>
 
-    <!-- Blue clickable links (SVG <a>) -->
-    <g class="mono" font-size="16" opacity="0.95">
-      <a href="https://quantumauth.io" target="_blank" rel="noopener">
-        <text x="220" y="2200" class="mono" fill="#2BD4FF">"https://quantumauth.io"</text>
-      </a>
-      <text x="140" y="1099" class="green">linkedin:</text>
-      <a href="https://www.linkedin.com/in/ian-dorion/" target="_blank" rel="noopener">
-        <text x="220" y="2225" class="mono" fill="#2BD4FF">"https://www.linkedin.com/in/ian-dorion/"</text>
-      </a>
-      <text x="140" y="1123" class="green">email:</text>
-      <a href="mailto:hello@quantumauth.io">
-        <text x="220" y="2250" class="mono" fill="#2BD4FF">"hello@quantumauth.io"</text>
-      </a>
-    </g>
-
     <!-- Blinking cursor (SMIL). Note: some GitHub contexts may render it static. -->
     <rect x="100" y="2275" width="10" height="18" fill="#39ff14" opacity="0.85">
       <animate attributeName="opacity" values="0;0;0.85;0.85;0" keyTimes="0;0.2;0.21;0.8;1" dur="1s" repeatCount="indefinite" />

@@ -49,6 +49,6 @@ or replacing complexity with principled design.
 
 ## 📫 Connect
 - 🌐 https://quantumauth.io  
-- 💼 LinkedIn: https://www.linkedin.com/in/ian-dorion/  
+- 💼 https://www.linkedin.com/in/ian-dorion/  
 - ✉️ hello@quantumauth.io
 

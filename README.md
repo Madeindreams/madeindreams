@@ -4,11 +4,13 @@
   <img src="assets/profile-terminal.svg" alt="Terminal profile" />
 </p>
 
+![My GitHub Game](game.gif)
+
 <p align="center">
   <img src="assets/nft/profile-nft.png" width="100" />
 </p>
 
-![My GitHub Game](game.gif)
+
 
 <p align="center">
   <a href="https://quantumauth.io">quantumauth.io</a> ·

@@ -8,8 +8,11 @@
   <img src="assets/nft/profile-nft.png" width="100" />
 </p>
 
+![My GitHub Game](game.gif)
+
 <p align="center">
   <a href="https://quantumauth.io">quantumauth.io</a> ·
   <a href="https://www.linkedin.com/in/ian-dorion/">LinkedIn</a> ·
   <a href="mailto:hello@quantumauth.io">hello@quantumauth.io</a>
 </p>
+
